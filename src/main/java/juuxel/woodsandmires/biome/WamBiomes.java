@@ -174,7 +174,7 @@ public final class WamBiomes {
             .effects(
                 new BiomeEffects.Builder()
                     .waterColor(0x7B6D1B)
-                    .waterFogColor(0x050533)
+                    .waterFogColor(0x232317)
                     .fogColor(0xC0D8FF)
                     .moodSound(BiomeMoodSound.CAVE)
                     .foliageColor(0xBFA243)
